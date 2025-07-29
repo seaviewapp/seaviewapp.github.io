@@ -1,2 +1,2 @@
 # seaviewapp.github.io
-Web version of Seaview app
+Web version of Seaview app.
